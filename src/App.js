@@ -16,12 +16,12 @@ state ={
     },
     {
       id:2,
-      title:'Dinner with wife',
+      title:'vi ändrar denna med och ser om pushen gick bra',
       completed: false
     },
     {
       id:3,
-      title:'Meeting with boss',
+      title:'detta är ju ett test',
       completed: false
     },
   ]
